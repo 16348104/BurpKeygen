@@ -32,7 +32,7 @@ Burp Suite Pro Loader &amp; Keygen ( burp v1.7+ )
 ```
 java -jar Burploaderkeygen.jar [-a|-auto [0|1]] [-i|-ignore [0|1]] [-n|-name <UserName>]
 ```
-### Mac版食用方法
+### Mac版使用方法
 0. 安装Mac版Burp
 1. 将注册机放置到`/Applications/Burp Suite Professional.app/Contents/Resources/app`目录下
 2. 执行以下命令启动注册机
@@ -60,7 +60,7 @@ cd "/Applications/Burp Suite Professional.app/Contents/Resources/app"
 sudo xattr -r -d com.apple.quarantine /Applications/Burp\ Suite\ Professional.app
 ```
 
-### 其他系统食用方法
+### 其他系统使用方法
 
 0. 将BurpLoaderKeygen.jar、burpsuite_pro_v20**.*.jar 放到同一目录下，也可以将指定版本的Java放到目录中，注册机会自动调用
 
